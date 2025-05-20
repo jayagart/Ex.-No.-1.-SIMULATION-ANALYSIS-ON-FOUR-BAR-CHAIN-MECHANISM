@@ -53,6 +53,8 @@
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/7ba04acf-2d6c-4221-8a59-b9dfb9d5b153)
+![image](https://github.com/user-attachments/assets/4aa84fca-b9a7-4000-a4bf-53db3d80966f)
 
 
 ### Name:
