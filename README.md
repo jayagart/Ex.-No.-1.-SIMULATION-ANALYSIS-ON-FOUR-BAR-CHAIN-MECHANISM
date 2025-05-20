@@ -53,8 +53,9 @@
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/7ba04acf-2d6c-4221-8a59-b9dfb9d5b153)
-![image](https://github.com/user-attachments/assets/4aa84fca-b9a7-4000-a4bf-53db3d80966f)
+![image](https://github.com/user-attachments/assets/266d117e-6551-4f7e-abfa-7c78e7bb8d57)
+
+![image](https://github.com/user-attachments/assets/eff43085-b424-4110-9862-a9e79469c5e1)
 
 
 ### Name:Jayagar.T
